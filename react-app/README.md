@@ -19,3 +19,10 @@ npm run start
 ```
 
 
+# chap02. 컴포넌트 만들기
+## chap02_1. 리액트가 없을때의 상황
+```
+create-react-app에서 public폴더는 npm run start를 실행했을때 파일을 찾는 document root 이다.
+pure.html 들어있는 내용은 작지만 실제로 많은 코드가 들어갈 경우 한눈에 파악하기란 쉽지않다.
+header태그 , nav태그 , article태그의 내용을 각각 분리하여 따로 관리할수 있다면??!
+```
